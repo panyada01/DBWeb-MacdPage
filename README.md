@@ -10,8 +10,8 @@
 
 ---
 <p align="center">
-<img width="1920" height="1080" alt="mdc1" src="https://github.com/user-attachments/assets/bc0800e4-6e5d-44ee-8899-8bbe45d725b7" width="600"/>
-  <img width="1920" height="1080" alt="mdc2" src="https://github.com/user-attachments/assets/1e785fb1-3a35-4fa7-b034-c8ff09f3a28e" width="600"/>
+<img width="1920" height="1080" alt="mdc1" src="https://github.com/user-attachments/assets/bc0800e4-6e5d-44ee-8899-8bbe45d725b7" width="600" />
+  <img width="1920" height="1080" alt="mdc2" src="https://github.com/user-attachments/assets/1e785fb1-3a35-4fa7-b034-c8ff09f3a28e" width="600" />
 
 </p>
 
