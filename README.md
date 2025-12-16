@@ -10,8 +10,8 @@
 
 ---
 <p align="center">
-<img width="1920" height="1080" alt="mdc1" src="https://github.com/user-attachments/assets/bc0800e4-6e5d-44ee-8899-8bbe45d725b7" />
-  <img width="1920" height="1080" alt="mdc2" src="https://github.com/user-attachments/assets/1e785fb1-3a35-4fa7-b034-c8ff09f3a28e" />
+<img width="1920" height="1080" alt="mdc1" src="https://github.com/user-attachments/assets/bc0800e4-6e5d-44ee-8899-8bbe45d725b7" width="600"/>
+  <img width="1920" height="1080" alt="mdc2" src="https://github.com/user-attachments/assets/1e785fb1-3a35-4fa7-b034-c8ff09f3a28e" width="600"/>
 
 </p>
 
@@ -30,15 +30,15 @@
 
 หลังจากล็อกอินสำเร็จ ผู้ใช้จะพบกับ **หน้าเมนูนำทางด้านซ้าย (Sidebar Navigation)**
 <p align="center">
-<img width="1920" height="1080" alt="mdc3" src="https://github.com/user-attachments/assets/e3073d9c-e496-4464-af18-3031f906d132" />
-  <img width="1920" height="1080" alt="mdc11" src="https://github.com/user-attachments/assets/cdb2690d-5d9e-422c-993a-225d075261be" />
-<img width="1920" height="1080" alt="mdc10" src="https://github.com/user-attachments/assets/ddb3eb49-60cc-4db4-8d28-e3cc1c10be1d" />
-<img width="1920" height="1080" alt="mdc9" src="https://github.com/user-attachments/assets/2d360baf-4695-47a7-866f-73c240794d33" />
-<img width="1920" height="1080" alt="mdc8" src="https://github.com/user-attachments/assets/67bac819-7b86-4a72-93fd-6ecb7aae5f1f" />
-<img width="1920" height="1080" alt="mdc7" src="https://github.com/user-attachments/assets/8aa9f863-1178-481c-a090-730a6c26238f" />
-<img width="1920" height="1080" alt="mdc6" src="https://github.com/user-attachments/assets/7f95d429-3fb7-46a6-976b-873d4a0b7fd3" />
-<img width="1920" height="1080" alt="mdc5" src="https://github.com/user-attachments/assets/5238cb4e-02ea-4a0b-97f6-a0e58d9ae592" />
-<img width="1920" height="1080" alt="mdc4" src="https://github.com/user-attachments/assets/4f16637b-cf55-4760-a290-64ce95715104" />
+<img width="1920" height="1080" alt="mdc3" src="https://github.com/user-attachments/assets/e3073d9c-e496-4464-af18-3031f906d132" width="600"/>
+  <img width="1920" height="1080" alt="mdc11" src="https://github.com/user-attachments/assets/cdb2690d-5d9e-422c-993a-225d075261be" width="600"/>
+<img width="1920" height="1080" alt="mdc10" src="https://github.com/user-attachments/assets/ddb3eb49-60cc-4db4-8d28-e3cc1c10be1d"width="600" />
+<img width="1920" height="1080" alt="mdc9" src="https://github.com/user-attachments/assets/2d360baf-4695-47a7-866f-73c240794d33" width="600"/>
+<img width="1920" height="1080" alt="mdc8" src="https://github.com/user-attachments/assets/67bac819-7b86-4a72-93fd-6ecb7aae5f1f" width="600"/>
+<img width="1920" height="1080" alt="mdc7" src="https://github.com/user-attachments/assets/8aa9f863-1178-481c-a090-730a6c26238f" width="600"/>
+<img width="1920" height="1080" alt="mdc6" src="https://github.com/user-attachments/assets/7f95d429-3fb7-46a6-976b-873d4a0b7fd3" width="600"/>
+<img width="1920" height="1080" alt="mdc5" src="https://github.com/user-attachments/assets/5238cb4e-02ea-4a0b-97f6-a0e58d9ae592" width="600"/>
+<img width="1920" height="1080" alt="mdc4" src="https://github.com/user-attachments/assets/4f16637b-cf55-4760-a290-64ce95715104" width="600"/>
 
 </p>
 
